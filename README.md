@@ -1,6 +1,7 @@
 ## Ezequiel Arroyo
  _Legajo: 175.985-1_
-![Foto de Perfil](Foto Perfil.jpeg)
+ 
+![Foto de Perfil](https://github.com/pdepjm/2023-tp0-presentacion-EZEarroyo/blob/main/Eze.JPG)
 ## Sobre mi:
 * Vivo en Tigre asique estoy un poco lejos de la facu.
 * Me gusta mirar peliculas y series.
